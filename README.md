@@ -1,24 +1,6 @@
-# weather-app
+# Weather App in Vue.js using OpenWeatherMap
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshots
+Waterloo|Antarctica
+--------|----------
+<img src="/src/assets/screenshots/waterloo.png"> | <img src="/src/assets/screenshots/antarctica.png">
